@@ -9,7 +9,15 @@
     Base Styles
 =============== */
 
+body {
+    text-align: center;
+}
+
 .testonator {
     font-family: CoveredByYourGrace-Regular;
 }
 
+.bodytestonator {
+    font-family: AdventPro-Light;
+    margin: auto 0;
+}

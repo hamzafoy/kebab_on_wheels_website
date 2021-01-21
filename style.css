@@ -10,14 +10,16 @@
 =============== */
 
 body {
-    text-align: center;
+    margin: 0 0;
+    padding: 0 0;
 }
 
 .testonator {
     font-family: CoveredByYourGrace-Regular;
+    text-align: center;
 }
 
 .bodytestonator {
     font-family: AdventPro-Light;
-    margin: auto 0;
+    text-align: center;
 }

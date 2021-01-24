@@ -9,9 +9,13 @@
     Base Styles
 =============== */
 
-body {
-    margin: 0 0;
-    padding: 0 0;
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    margin: 0;
 }
 
 .testonator {
@@ -22,4 +26,19 @@ body {
 .bodytestonator {
     font-family: AdventPro-Light;
     text-align: center;
+}
+
+.landing_container {
+    height: 100vh;
+    background-color: pink;
+}
+
+.landing_container_2 {
+    height: 100vh;
+    background-color: lightblue;
+}
+
+.landing_container_3 {
+    height: 100vh;
+    background-color: palevioletred;
 }

@@ -5,6 +5,8 @@
 @font-face {font-family: "CoveredByYourGrace-Regular"; src: url("fonts/CoveredByYourGrace-Regular.ttf"); }
 @font-face {font-family: "AdventPro-Light"; src: url("fonts/AdventPro-Light.ttf"); }
 
+
+
 /* ===============
     Base Styles
 =============== */
@@ -18,9 +20,16 @@ h3 {
     margin: 0;
 }
 
-.testonator {
+
+
+/* ===============
+    General Styles
+=============== */
+
+#kw_heading {
     font-family: CoveredByYourGrace-Regular;
-    text-align: center;
+    text-align: right;
+    font-size: 144px;
 }
 
 .bodytestonator {
@@ -41,4 +50,8 @@ h3 {
 .landing_container_3 {
     height: 100vh;
     background-color: palevioletred;
+}
+
+#kw_menu {
+    width: 100%;
 }

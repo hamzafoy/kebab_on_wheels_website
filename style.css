@@ -73,6 +73,26 @@ h3 {
 .landing_container_3 {
     height: 100vh;
     background-color: palevioletred;
+    display: flex;
+    justify-content: center;
+}
+
+#kw_heading_2 {
+    font-family: CoveredByYourGrace-Regular;
+    text-align: right;
+    font-size: 112px;
+    position: relative;
+    float: left;
+}
+
+#kw_heading_2 span {
+    position: absolute;
+    width: 500px;
+    display: inline-block;
+    left: -300px;
+    top: 150px;
+    transform: rotate(-90deg);
+    text-align: center;
 }
 
 #kw_menu {

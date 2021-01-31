@@ -34,7 +34,7 @@ h3 {
 
 #kw_isometric {
     width: 100%;
-    height: 30%;
+    height: 35%;
     margin: 0 auto;
     display: block;
     padding-top: 125px;
@@ -43,8 +43,8 @@ h3 {
 #kw_landing_subheading {
     font-family: AdventPro-Light;
     text-align: left;
-    font-size: 18px;
-    padding-top: 125px;
+    font-size: 16px;
+    padding-top: 150px;
 }
 
 .landing_container {
@@ -65,12 +65,12 @@ h3 {
 #kw_heading_2 {
     font-family: CoveredByYourGrace-Regular;
     text-align: center;
-    font-size: 32px;
+    font-size: 56px;
 }
 
 #kw_menu {
     width: 100%;
-    height: 95%;
+    height: 90%;
 }
 
 /* ===============

@@ -26,15 +26,14 @@ h3 {
     General Styles
 =============== */
 
+.landing_container {
+    height: 100vh;
+    background-color: #ff5e47;
+}
+
 #kw_heading {
     font-family: CoveredByYourGrace-Regular;
     text-align: right;
-    font-size: 54px;
-}
-
-#kw_heading_2 {
-    font-family: CoveredByYourGrace-Regular;
-    text-align: left;
     font-size: 54px;
 }
 
@@ -53,22 +52,33 @@ h3 {
     padding-top: 150px;
 }
 
-.landing_container {
-    height: 100vh;
-    background-color: #ff5e47;
-}
+
+
 
 .landing_container_2 {
     height: 100vh;
     background-color: lightblue;
 }
 
+#kw_heading_2 {
+    font-family: CoveredByYourGrace-Regular;
+    text-align: left;
+    font-size: 54px;
+}
+
+#contact_methods {
+    display: block;
+}
+
+
+
+
 .landing_container_3 {
     height: 100vh;
     background-color: palevioletred;
 }
 
-#kw_heading_2 {
+#kw_heading_3 {
     font-family: CoveredByYourGrace-Regular;
     text-align: center;
     font-size: 56px;
@@ -119,7 +129,7 @@ h3 {
     justify-content: center;
 }
 
-#kw_heading_2 {
+#kw_heading_3 {
     font-family: CoveredByYourGrace-Regular;
     text-align: right;
     font-size: 112px;
@@ -127,7 +137,7 @@ h3 {
     float: left;
 }
 
-#kw_heading_2 span {
+#kw_heading_3 span {
     position: absolute;
     width: 500px;
     display: inline-block;

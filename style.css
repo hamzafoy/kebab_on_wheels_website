@@ -101,12 +101,6 @@ h3 {
     font-size: 112px;
 }
 
-#kw_heading_2 {
-    font-family: CoveredByYourGrace-Regular;
-    text-align: left;
-    font-size: 112px;
-}
-
 #kw_isometric {
     width: 100%;
     height: 65%;
@@ -121,6 +115,32 @@ h3 {
     padding-top: 1.25em;
     font-size: 22px;
 }
+
+
+
+
+.landing_container_2 {
+    height: 100vh;
+    background-color: lightblue;
+}
+
+#kw_heading_2 {
+    font-family: CoveredByYourGrace-Regular;
+    text-align: left;
+    font-size: 112px;
+}
+
+#contact_methods {
+    display: flex;
+    justify-content: space-around;
+}
+
+#contact_methods aside {
+    text-align: center;
+}
+
+
+
 
 .landing_container_3 {
     height: 100vh;

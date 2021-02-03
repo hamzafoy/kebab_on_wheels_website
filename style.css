@@ -152,6 +152,18 @@ h3 {
     margin-top: 50px;
 }
 
+#contact_phone:hover {
+    filter: invert(19%) sepia(89%) saturate(2735%) hue-rotate(119deg) brightness(102%) contrast(107%);
+}
+
+#contact_facebook:hover {
+    filter: invert(39%) sepia(8%) saturate(4029%) hue-rotate(182deg) brightness(95%) contrast(88%);
+}
+
+#contact_instagram:hover {
+    filter: invert(39%) sepia(22%) saturate(2421%) hue-rotate(300deg) brightness(92%) contrast(87%);
+}
+
 
 
 

@@ -28,7 +28,7 @@ h3 {
 
 .landing_container {
     height: 100vh;
-    background-color: #ff5e47;
+    background-color: #FAB735;
 }
 
 #kw_heading {
@@ -57,7 +57,7 @@ h3 {
 
 .landing_container_2 {
     height: 100vh;
-    background-color: lightblue;
+    background-color: #E85124;
 }
 
 #kw_heading_2 {
@@ -95,7 +95,7 @@ h3 {
 
 .landing_container_3 {
     height: 100vh;
-    background-color: palevioletred;
+    background-color: #F83E06;
 }
 
 #kw_heading_3 {
@@ -141,7 +141,7 @@ h3 {
 
 .landing_container_2 {
     height: 100vh;
-    background-color: lightblue;
+    background-color: #E85124;
 }
 
 #kw_heading_2 {
@@ -192,7 +192,7 @@ h3 {
 
 .landing_container_3 {
     height: 100vh;
-    background-color: palevioletred;
+    background-color: #F83E06;
     display: flex;
     justify-content: center;
 }

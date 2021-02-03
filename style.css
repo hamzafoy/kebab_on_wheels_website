@@ -133,15 +133,23 @@ h3 {
 #contact_methods {
     display: flex;
     justify-content: space-around;
+    margin-top: 50px;
 }
 
 #contact_methods aside {
     text-align: center;
+    font-family: AdventPro-Light;
+}
+
+#contact_methods aside h2 {
+    text-decoration: underline;
+    font-size: 28px;
 }
 
 .contact_icons {
     width: 100px;
     height: 100px;
+    margin-top: 50px;
 }
 
 

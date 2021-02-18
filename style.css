@@ -65,6 +65,7 @@ h3 {
     text-align: left;
     font-size: 54px;
     padding-top: 24px;
+    color: white;
 }
 
 #contact_methods {
@@ -77,11 +78,13 @@ h3 {
     text-align: center;
     font-family: AdventPro-Light;
     margin-bottom: 36px;
+    color: white;
 }
 
 #contact_methods aside h2 {
     text-decoration: underline;
     font-size: 20px;
+    color: white;
 }
 
 .contact_icons {
@@ -95,7 +98,7 @@ h3 {
 
 .landing_container_3 {
     height: 100vh;
-    background-color: #F83E06;
+    background-color: #FAB735;
 }
 
 #kw_heading_3 {

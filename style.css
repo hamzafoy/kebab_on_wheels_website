@@ -152,6 +152,7 @@ h3 {
     text-align: left;
     font-size: 112px;
     padding-top: 24px;
+    color: white;
 }
 
 #contact_methods {
@@ -165,11 +166,13 @@ h3 {
 #contact_methods aside {
     text-align: center;
     font-family: AdventPro-Light;
+    color: white;
 }
 
 #contact_methods aside h2 {
     text-decoration: underline;
     font-size: 28px;
+    color: white;
 }
 
 .contact_icons {
@@ -195,7 +198,7 @@ h3 {
 
 .landing_container_3 {
     height: 100vh;
-    background-color: #F83E06;
+    background-color: #FAB735;
     display: flex;
     justify-content: center;
 }

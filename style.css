@@ -198,7 +198,7 @@ h3 {
 
 .landing_container_3 {
     height: 100vh;
-    background-color: #FAB735;
+    background-color: #E85124;
     display: flex;
     justify-content: center;
 }
@@ -209,6 +209,7 @@ h3 {
     font-size: 112px;
     position: relative;
     float: left;
+    color: white;
 }
 
 #kw_heading_3 span {
@@ -224,6 +225,14 @@ h3 {
 #kw_menu {
     width: 40%;
     height: 100%;
+}
+
+
+
+
+.landing_container_4 {
+    height: 100vh;
+    background-color: #FAB735;
 }
 
 }

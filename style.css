@@ -263,4 +263,11 @@ h3 {
     height: 300px;
 }
 
+.foodie_captions {
+    font-family: AdventPro-Light;
+    text-align: center;
+    padding-top: 1.25em;
+    font-size: 22px;
+}
+
 }

@@ -136,7 +136,10 @@ h3 {
 
 #foodie_foto aside {
     text-align: center;
-    
+}
+
+#foodie_foto aside:last-of-type {
+    padding-top: 100px;
 }
 
 .chicken_items {
@@ -286,6 +289,10 @@ h3 {
     flex-direction: row;
     justify-content: space-around;
     margin-top: 50px;
+    padding-top: 0;
+}
+
+#foodie_foto aside:last-of-type {
     padding-top: 0;
 }
 

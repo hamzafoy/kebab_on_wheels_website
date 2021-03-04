@@ -103,7 +103,7 @@ h3 {
 
 #kw_heading_3 {
     font-family: CoveredByYourGrace-Regular;
-    text-align: center;
+    text-align: left;
     font-size: 56px;
     color: white;
 }
@@ -119,6 +119,36 @@ h3 {
 .landing_container_4 {
     height: 100vh;
     background-color: #FAB735;
+}
+
+#kw_heading_4 {
+    font-family: CoveredByYourGrace-Regular;
+    text-align: right;
+    font-size: 54px;
+    padding-top: 24px;
+}
+
+#foodie_foto {
+    display: flex;
+    flex-direction: column;
+    padding-top: 54px;
+}
+
+#foodie_foto aside {
+    text-align: center;
+    
+}
+
+.chicken_items {
+    width: 150px;
+    height: 150px;
+    margin-top: 5px;
+}
+
+.foodie_captions {
+    font-family: AdventPro-Light;
+    text-align: center;
+    font-size: 16px;
 }
 
 /* ===============
@@ -256,6 +286,7 @@ h3 {
     flex-direction: row;
     justify-content: space-around;
     margin-top: 50px;
+    padding-top: 0;
 }
 
 .chicken_items {

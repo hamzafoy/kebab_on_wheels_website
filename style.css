@@ -116,10 +116,18 @@ h3 {
 }
 
 #kw_menu {
-    width: 90%;
-    height: 80%;
+    width: 100%;
+    height: 70%;
     display: block;
     margin: 0 auto;
+    padding-top: 24px;
+}
+
+#kw_author_byline {
+    font-family: CoveredByYourGrace-Regular;
+    text-align: right;
+    font-size: 24px;
+    color: white;
     padding-top: 24px;
 }
 
@@ -274,6 +282,26 @@ h3 {
     position: relative;
     float: left;
     color: white;
+}
+
+#kw_author_byline {
+    font-family: CoveredByYourGrace-Regular;
+    text-align: right;
+    font-size: 24px;
+    position: relative;
+    float: right;
+    color: white;
+    padding-top: 0;
+}
+
+#kw_author_byline span {
+    position: absolute;
+    width: 500px;
+    display: inline-block;
+    left: -230px;
+    top: 435px;
+    transform: rotate(90deg);
+    text-align: right;
 }
 
 #kw_heading_3 span {

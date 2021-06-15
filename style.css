@@ -78,7 +78,7 @@ h3 {
 #contact_methods {
     display: flex;
     flex-direction: column;
-    padding-top: 54px;
+    padding-top: 32px;
 }
 
 #contact_methods aside {
@@ -95,8 +95,8 @@ h3 {
 }
 
 .contact_icons {
-    width: 69px;
-    height: 69px;
+    width: 48px;
+    height: 48px;
     margin-top: 5px;
 }
 

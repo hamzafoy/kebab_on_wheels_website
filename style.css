@@ -135,7 +135,7 @@ h3 {
 
 
 .landing_container_4 {
-    height: 100vh;
+    min-height: 100vh;
     background-color: #FAB735;
 }
 
@@ -150,6 +150,7 @@ h3 {
     display: flex;
     flex-direction: column;
     padding-top: 54px;
+    padding-bottom: 24px;
 }
 
 #foodie_foto aside {
